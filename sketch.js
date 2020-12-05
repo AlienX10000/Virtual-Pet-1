@@ -3,8 +3,8 @@ var tony, tonyWantFood, tonyHappy, foodRef, foodStock, database, sky;
 
 function preload() {
   //load images here
-  tonyWantFood = loadImage("images/dogImg.png")
-  tonyHappy = loadImage("images/dogImg1.png")
+  tonyWantFood = loadImage("dogImg.png")
+  tonyHappy = loadImage("dogImg1.png")
 }
 
 function setup() {
