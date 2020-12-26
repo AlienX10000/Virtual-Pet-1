@@ -46,7 +46,7 @@ function readStock(data){
 
 function write(x){
   if(x<=0){
-    x=0;
+    x=20;
   }else{
     x=x-1;
   }
